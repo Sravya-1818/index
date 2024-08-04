@@ -1,0 +1,118 @@
+header{
+    height:100vh;
+    background-color: #2196F3;
+    color:#f0f8ff;
+    display:flex;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+}
+section
+{
+    display:flex;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: center;
+    background-color:#f0f8ff;
+    height:100vh;
+    margin: 10px;
+    border:10px 10px 10px 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius:10px;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+
+
+}
+a{
+    text-decoration: none;
+}
+button
+{
+    width: 125px;
+    height: 45px;
+    font-size: 11px;
+    
+   
+    letter-spacing: 2.5px;
+    
+ 
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+.SKILLS{
+background-color: #f0f8ff;
+}
+.top{
+    height: 70px;
+    width:70px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #2196F3;
+    color: #f0f8ff;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: x-large;
+}
+.contact{
+    padding:10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.input{
+    border-radius: 4px;
+    border:1px;
+    border-color: black;
+    border-style: none;
+    height:25px;
+    width:200px;
+    text-align: center;
+    padding:10px;
+    justify-content: center;
+    margin:5px;
+    display: flex;
+flex-direction: row;
+}
+.cobut{
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin: 8px;
+}
+.but{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    bottom: -4px;
+    right: 10px;
+    
+}
+body{
+    background-color: #f0f8ff;
+}
+footer{
+    background-color: black;
+    color:white;
+    height:200px;
+    margin:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+   
+
